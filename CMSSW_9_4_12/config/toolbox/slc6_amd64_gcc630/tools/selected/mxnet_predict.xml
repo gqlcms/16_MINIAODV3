@@ -1,0 +1,10 @@
+<tool name="mxnet_predict" version="1.1.0">
+  <lib name="mxnet_predict"/>
+  <client>
+    <environment name="MXNET_BASE" default="/cvmfs/cms-lpc.opensciencegrid.org/sl6/opt/mxnet-1.1.0"/>
+    <environment name="LIBDIR" default="$MXNET_BASE/lib"/>
+    <environment name="INCLUDE" default="$MXNET_BASE/include"/>
+  </client>
+  <use name="openblas"/>
+  <use name="jemalloc"/>
+</tool>

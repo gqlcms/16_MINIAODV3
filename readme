@@ -1,0 +1,32 @@
+Done:Add DeepAK8 to reclustered AK8Puppi jets and drop the Redojet part
+
+To do:
+	1. Most important: assign the DeepAK8 variables with jetAK8puppi_dnn and jetAK8puppi_dnnDecorr in the name new values like 
+		jetAK8puppi_dnnDecorrW = hadronicVpuppi.bDiscriminator("pfMassDecorrelatedDeepBoostedDiscriminatorsJetTags:WvsQCD")
+	   And the Discriminator avariable can be found at: https://twiki.cern.ch/twiki/bin/viewauth/CMS/DeepAKXTagging#Recipes_for_Run_2_analyses
+	2. investigate the output message:
+		(was exception) FreeTrajectoryState: attempt to access errors when none available
+		Curvilinear error valid/values :0
+	3. check lep/jet id of which year should be used
+	4. The same for L1prefiring
+	5. NNKit package is useless. So please remove the related sentences to simplify the code
+	6. Run locally and check if the variables stored are reasonable.
+	7. MINIAODV3 samples:
+		signal: https://cmsweb.cern.ch/das/request?view=list&limit=50&instance=prod%2Fglobal&input=dataset%3D%2FWkkToWRadionToWWW_M*_13TeV-madgraph-herwigpp%2FRunIISummer16MiniAODv3-PUMoriond17_94X_mcRun2_asymptotic_v3-v1%2FMINIAODSIM
+		BKGs: https://cmsweb.cern.ch/das/request?view=list&limit=50&instance=prod%2Fglobal&input=%2F*%2FRunIISummer16MiniAODv3-*%2FMINIAODSIM
+
+Notes:
+	#install jettool
+	cmsrel CMSSW_9_4_12/
+	cd CMSSW_9_4_12/src/
+	git cms-init
+	git clone git@github.com:cms-jet/JetToolbox.git JMEAnalysis/JetToolbox -b jetToolbox_94X_v4
+	scram b -j 18
+	comment out 6 lines in JMEAnalysis/JetToolbox/python/jetToolbox_cff.py which are not used (DeepDoubleB tagger):
+                        #'pfMassIndependentDeepDoubleBvLJetTags:probQCD',
+                        #'pfMassIndependentDeepDoubleBvLJetTags:probHbb',
+                        #'pfMassIndependentDeepDoubleCvLJetTags:probQCD',
+                        #'pfMassIndependentDeepDoubleCvLJetTags:probHcc',
+                        #'pfMassIndependentDeepDoubleCvBJetTags:probHbb',
+                        #'pfMassIndependentDeepDoubleCvBJetTags:probHcc',
+

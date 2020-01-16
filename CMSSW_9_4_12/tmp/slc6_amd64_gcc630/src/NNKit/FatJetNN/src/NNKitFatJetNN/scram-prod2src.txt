@@ -1,0 +1,1 @@
+NNKitFatJetNN NNKit/FatJetNN/srcFatJetNN.cc NNKit/FatJetNN/srcFatJetNNDecorrelator.cc

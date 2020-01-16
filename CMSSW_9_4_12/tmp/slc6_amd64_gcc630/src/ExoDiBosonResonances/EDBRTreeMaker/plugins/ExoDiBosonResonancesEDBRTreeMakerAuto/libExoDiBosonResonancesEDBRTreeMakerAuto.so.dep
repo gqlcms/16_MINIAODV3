@@ -1,0 +1,15 @@
+tmp/slc6_amd64_gcc630/src/ExoDiBosonResonances/EDBRTreeMaker/plugins/ExoDiBosonResonancesEDBRTreeMakerAuto/EDBRTreeMaker.o: \
+ src/ExoDiBosonResonances/EDBRTreeMaker/plugins/EDBRTreeMaker.cc \
+ src/NNKit/FatJetNN/interface/FatJetNN.h \
+ src/NNKit/CommonTools/interface/json.hpp \
+ src/NNKit/CommonTools/interface/NNPredictor.h \
+ src/NNKit/FatJetInputs/interface/PFCandidateFiller.h \
+ src/NNKit/BTagHelpers/interface/TrackInfoBuilder.h \
+ src/NNKit/CommonTools/interface/NtupleBase.h \
+ src/NNKit/CommonTools/interface/TreeData.h \
+ src/NNKit/CommonTools/interface/JetHelper.h \
+ src/NNKit/CommonTools/interface/InfinityCatcher.h \
+ src/NNKit/FatJetInputs/interface/SVFiller.h \
+ src/NNKit/FatJetNN/interface/FatJetNNHelper.h \
+ src/ExoDiBosonResonances/EDBRTreeMaker/plugins/EDBRChannels.h \
+

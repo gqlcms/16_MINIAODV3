@@ -1,0 +1,2 @@
+ALL_PACKAGES += NNKit/FatJetNN
+subdirs_src_NNKit_FatJetNN := src_NNKit_FatJetNN_test src_NNKit_FatJetNN_src src_NNKit_FatJetNN_plugins

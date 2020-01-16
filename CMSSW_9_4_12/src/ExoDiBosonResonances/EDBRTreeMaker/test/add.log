@@ -1,0 +1,503 @@
+generating files for M = 2500 GeV R = 0-8
+hadd Target file: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M2500_R0-08.root
+hadd Source file 1: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M2500-R0-8-TuneCUEP8M1_13TeV-madgraph/M2500_R0-08_off/190803_155915/0000/RStreeEDBR_pickup_1.root
+hadd Source file 2: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M2500-R0-8-TuneCUEP8M1_13TeV-madgraph/M2500_R0-08_off/190803_155915/0000/RStreeEDBR_pickup_2.root
+hadd Source file 3: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M2500-R0-8-TuneCUEP8M1_13TeV-madgraph/M2500_R0-08_off/190803_155915/0000/RStreeEDBR_pickup_3.root
+hadd Target path: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M2500_R0-08.root:/
+hadd Target path: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M2500_R0-08.root:/treeDumper
+generating files for M = 2500 GeV R = 0-1
+hadd Target file: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M2500_R0-1.root
+hadd Source file 1: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M2500-R0-1-TuneCUEP8M1_13TeV-madgraph/M2500_R0-1_off/190803_160033/0000/RStreeEDBR_pickup_1.root
+hadd Source file 2: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M2500-R0-1-TuneCUEP8M1_13TeV-madgraph/M2500_R0-1_off/190803_160033/0000/RStreeEDBR_pickup_2.root
+hadd Source file 3: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M2500-R0-1-TuneCUEP8M1_13TeV-madgraph/M2500_R0-1_off/190803_160033/0000/RStreeEDBR_pickup_3.root
+hadd Target path: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M2500_R0-1.root:/
+hadd Target path: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M2500_R0-1.root:/treeDumper
+generating files for M = 2500 GeV R = 0-2
+hadd Target file: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M2500_R0-2.root
+hadd Source file 1: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M2500-R0-2-TuneCUEP8M1_13TeV-madgraph/M2500_R0-2_off/190803_160153/0000/RStreeEDBR_pickup_1.root
+hadd Source file 2: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M2500-R0-2-TuneCUEP8M1_13TeV-madgraph/M2500_R0-2_off/190803_160153/0000/RStreeEDBR_pickup_2.root
+hadd Source file 3: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M2500-R0-2-TuneCUEP8M1_13TeV-madgraph/M2500_R0-2_off/190803_160153/0000/RStreeEDBR_pickup_3.root
+hadd Target path: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M2500_R0-2.root:/
+hadd Target path: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M2500_R0-2.root:/treeDumper
+generating files for M = 2500 GeV R = 0-3
+hadd Target file: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M2500_R0-3.root
+hadd Source file 1: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M2500-R0-3-TuneCUEP8M1_13TeV-madgraph/M2500_R0-3_off/190803_160315/0000/RStreeEDBR_pickup_1.root
+hadd Source file 2: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M2500-R0-3-TuneCUEP8M1_13TeV-madgraph/M2500_R0-3_off/190803_160315/0000/RStreeEDBR_pickup_2.root
+hadd Source file 3: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M2500-R0-3-TuneCUEP8M1_13TeV-madgraph/M2500_R0-3_off/190803_160315/0000/RStreeEDBR_pickup_3.root
+hadd Target path: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M2500_R0-3.root:/
+hadd Target path: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M2500_R0-3.root:/treeDumper
+generating files for M = 2500 GeV R = 0-4
+hadd Target file: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M2500_R0-4.root
+hadd Source file 1: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M2500-R0-4-TuneCUEP8M1_13TeV-madgraph/M2500_R0-4_off/190803_160436/0000/RStreeEDBR_pickup_1.root
+hadd Source file 2: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M2500-R0-4-TuneCUEP8M1_13TeV-madgraph/M2500_R0-4_off/190803_160436/0000/RStreeEDBR_pickup_2.root
+hadd Target path: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M2500_R0-4.root:/
+hadd Target path: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M2500_R0-4.root:/treeDumper
+generating files for M = 2500 GeV R = 0-5
+hadd Target file: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M2500_R0-5.root
+hadd Source file 1: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M2500-R0-5-TuneCUEP8M1_13TeV-madgraph/M2500_R0-5_off/190803_160557/0000/RStreeEDBR_pickup_1.root
+hadd Target path: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M2500_R0-5.root:/
+hadd Target path: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M2500_R0-5.root:/treeDumper
+generating files for M = 2500 GeV R = 0-6
+hadd Target file: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M2500_R0-6.root
+hadd Source file 1: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M2500-R0-6-TuneCUEP8M1_13TeV-madgraph/M2500_R0-6_off/190803_160719/0000/RStreeEDBR_pickup_1.root
+hadd Source file 2: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M2500-R0-6-TuneCUEP8M1_13TeV-madgraph/M2500_R0-6_off/190803_160719/0000/RStreeEDBR_pickup_2.root
+hadd Source file 3: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M2500-R0-6-TuneCUEP8M1_13TeV-madgraph/M2500_R0-6_off/190803_160719/0000/RStreeEDBR_pickup_3.root
+hadd Target path: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M2500_R0-6.root:/
+hadd Target path: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M2500_R0-6.root:/treeDumper
+generating files for M = 2500 GeV R = 0-7
+hadd Target file: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M2500_R0-7.root
+hadd Source file 1: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M2500-R0-7-TuneCUEP8M1_13TeV-madgraph/M2500_R0-7_off/190803_160841/0000/RStreeEDBR_pickup_1.root
+hadd Source file 2: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M2500-R0-7-TuneCUEP8M1_13TeV-madgraph/M2500_R0-7_off/190803_160841/0000/RStreeEDBR_pickup_2.root
+hadd Source file 3: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M2500-R0-7-TuneCUEP8M1_13TeV-madgraph/M2500_R0-7_off/190803_160841/0000/RStreeEDBR_pickup_3.root
+hadd Target path: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M2500_R0-7.root:/
+hadd Target path: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M2500_R0-7.root:/treeDumper
+generating files for M = 2500 GeV R = 0-9
+hadd Target file: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M2500_R0-9.root
+hadd Source file 1: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M2500-R0-9-TuneCUEP8M1_13TeV-madgraph/M2500_R0-9_off/190803_160958/0000/RStreeEDBR_pickup_1.root
+hadd Target path: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M2500_R0-9.root:/
+hadd Target path: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M2500_R0-9.root:/treeDumper
+generating files for M = 1500 GeV R = 0-12
+hadd Target file: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M1500_R0-12.root
+hadd Source file 1: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M1500-R0-12-TuneCUEP8M1_13TeV-madgraph/M1500_R0-12_off/190803_153800/0000/RStreeEDBR_pickup_1.root
+hadd Source file 2: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M1500-R0-12-TuneCUEP8M1_13TeV-madgraph/M1500_R0-12_off/190803_153800/0000/RStreeEDBR_pickup_2.root
+hadd Source file 3: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M1500-R0-12-TuneCUEP8M1_13TeV-madgraph/M1500_R0-12_off/190803_153800/0000/RStreeEDBR_pickup_3.root
+hadd Source file 4: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M1500-R0-12-TuneCUEP8M1_13TeV-madgraph/M1500_R0-12_off/190803_153800/0000/RStreeEDBR_pickup_4.root
+hadd Target path: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M1500_R0-12.root:/
+hadd Target path: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M1500_R0-12.root:/treeDumper
+generating files for M = 1500 GeV R = 0-2
+hadd Target file: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M1500_R0-2.root
+hadd Source file 1: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M1500-R0-2-TuneCUEP8M1_13TeV-madgraph/M1500_R0-2_off/190803_153918/0000/RStreeEDBR_pickup_1.root
+hadd Source file 2: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M1500-R0-2-TuneCUEP8M1_13TeV-madgraph/M1500_R0-2_off/190803_153918/0000/RStreeEDBR_pickup_2.root
+hadd Source file 3: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M1500-R0-2-TuneCUEP8M1_13TeV-madgraph/M1500_R0-2_off/190803_153918/0000/RStreeEDBR_pickup_3.root
+hadd Target path: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M1500_R0-2.root:/
+hadd Target path: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M1500_R0-2.root:/treeDumper
+generating files for M = 1500 GeV R = 0-3
+hadd Target file: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M1500_R0-3.root
+hadd Source file 1: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M1500-R0-3-TuneCUEP8M1_13TeV-madgraph/M1500_R0-3_off/190803_154041/0000/RStreeEDBR_pickup_1.root
+hadd Source file 2: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M1500-R0-3-TuneCUEP8M1_13TeV-madgraph/M1500_R0-3_off/190803_154041/0000/RStreeEDBR_pickup_2.root
+hadd Source file 3: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M1500-R0-3-TuneCUEP8M1_13TeV-madgraph/M1500_R0-3_off/190803_154041/0000/RStreeEDBR_pickup_3.root
+hadd Target path: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M1500_R0-3.root:/
+hadd Target path: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M1500_R0-3.root:/treeDumper
+generating files for M = 1500 GeV R = 0-4
+hadd Target file: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M1500_R0-4.root
+hadd Source file 1: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M1500-R0-4-TuneCUEP8M1_13TeV-madgraph/M1500_R0-4_off/190803_154159/0000/RStreeEDBR_pickup_1.root
+hadd Source file 2: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M1500-R0-4-TuneCUEP8M1_13TeV-madgraph/M1500_R0-4_off/190803_154159/0000/RStreeEDBR_pickup_2.root
+hadd Target path: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M1500_R0-4.root:/
+hadd Target path: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M1500_R0-4.root:/treeDumper
+generating files for M = 1500 GeV R = 0-5
+hadd Target file: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M1500_R0-5.root
+hadd Source file 1: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M1500-R0-5-TuneCUEP8M1_13TeV-madgraph/M1500_R0-5_off/190803_154322/0000/RStreeEDBR_pickup_1.root
+hadd Source file 2: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M1500-R0-5-TuneCUEP8M1_13TeV-madgraph/M1500_R0-5_off/190803_154322/0000/RStreeEDBR_pickup_2.root
+hadd Target path: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M1500_R0-5.root:/
+hadd Target path: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M1500_R0-5.root:/treeDumper
+generating files for M = 1500 GeV R = 0-6
+hadd Target file: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M1500_R0-6.root
+hadd Source file 1: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M1500-R0-6-TuneCUEP8M1_13TeV-madgraph/M1500_R0-6_off/190803_154441/0000/RStreeEDBR_pickup_1.root
+hadd Source file 2: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M1500-R0-6-TuneCUEP8M1_13TeV-madgraph/M1500_R0-6_off/190803_154441/0000/RStreeEDBR_pickup_2.root
+hadd Source file 3: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M1500-R0-6-TuneCUEP8M1_13TeV-madgraph/M1500_R0-6_off/190803_154441/0000/RStreeEDBR_pickup_3.root
+hadd Target path: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M1500_R0-6.root:/
+hadd Target path: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M1500_R0-6.root:/treeDumper
+generating files for M = 1500 GeV R = 0-7
+hadd Target file: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M1500_R0-7.root
+hadd Source file 1: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M1500-R0-7-TuneCUEP8M1_13TeV-madgraph/M1500_R0-7_off/190803_154606/0000/RStreeEDBR_pickup_1.root
+hadd Source file 2: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M1500-R0-7-TuneCUEP8M1_13TeV-madgraph/M1500_R0-7_off/190803_154606/0000/RStreeEDBR_pickup_2.root
+hadd Target path: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M1500_R0-7.root:/
+hadd Target path: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M1500_R0-7.root:/treeDumper
+generating files for M = 1500 GeV R = 0-9
+hadd Target file: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M1500_R0-9.root
+hadd Source file 1: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M1500-R0-9-TuneCUEP8M1_13TeV-madgraph/M1500_R0-9_off/190803_154726/0000/RStreeEDBR_pickup_1.root
+hadd Source file 2: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M1500-R0-9-TuneCUEP8M1_13TeV-madgraph/M1500_R0-9_off/190803_154726/0000/RStreeEDBR_pickup_2.root
+hadd Source file 3: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M1500-R0-9-TuneCUEP8M1_13TeV-madgraph/M1500_R0-9_off/190803_154726/0000/RStreeEDBR_pickup_3.root
+hadd Target path: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M1500_R0-9.root:/
+hadd Target path: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M1500_R0-9.root:/treeDumper
+generating files for M = 2000 GeV R = 0-1
+hadd Target file: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M2000_R0-1.root
+hadd Source file 1: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M2000-R0-1-TuneCUEP8M1_13TeV-madgraph/M2000_R0-1_off/190803_154849/0000/RStreeEDBR_pickup_1.root
+hadd Source file 2: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M2000-R0-1-TuneCUEP8M1_13TeV-madgraph/M2000_R0-1_off/190803_154849/0000/RStreeEDBR_pickup_2.root
+hadd Target path: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M2000_R0-1.root:/
+hadd Target path: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M2000_R0-1.root:/treeDumper
+generating files for M = 2000 GeV R = 0-2
+hadd Target file: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M2000_R0-2.root
+hadd Source file 1: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M2000-R0-2-TuneCUEP8M1_13TeV-madgraph/M2000_R0-2_off/190803_155005/0000/RStreeEDBR_pickup_1.root
+hadd Source file 2: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M2000-R0-2-TuneCUEP8M1_13TeV-madgraph/M2000_R0-2_off/190803_155005/0000/RStreeEDBR_pickup_2.root
+hadd Target path: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M2000_R0-2.root:/
+hadd Target path: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M2000_R0-2.root:/treeDumper
+generating files for M = 2000 GeV R = 0-3
+hadd Target file: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M2000_R0-3.root
+hadd Source file 1: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M2000-R0-3-TuneCUEP8M1_13TeV-madgraph/M2000_R0-3_off/190803_155127/0000/RStreeEDBR_pickup_1.root
+hadd Source file 2: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M2000-R0-3-TuneCUEP8M1_13TeV-madgraph/M2000_R0-3_off/190803_155127/0000/RStreeEDBR_pickup_2.root
+hadd Source file 3: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M2000-R0-3-TuneCUEP8M1_13TeV-madgraph/M2000_R0-3_off/190803_155127/0000/RStreeEDBR_pickup_3.root
+hadd Target path: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M2000_R0-3.root:/
+hadd Target path: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M2000_R0-3.root:/treeDumper
+generating files for M = 2000 GeV R = 0-4
+hadd Target file: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M2000_R0-4.root
+hadd Source file 1: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M2000-R0-4-TuneCUEP8M1_13TeV-madgraph/M2000_R0-4_off/190803_155244/0000/RStreeEDBR_pickup_1.root
+hadd Source file 2: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M2000-R0-4-TuneCUEP8M1_13TeV-madgraph/M2000_R0-4_off/190803_155244/0000/RStreeEDBR_pickup_2.root
+hadd Target path: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M2000_R0-4.root:/
+hadd Target path: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M2000_R0-4.root:/treeDumper
+generating files for M = 2000 GeV R = 0-5
+hadd Target file: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M2000_R0-5.root
+hadd Source file 1: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M2000-R0-5-TuneCUEP8M1_13TeV-madgraph/M2000_R0-5_off/190803_155400/0000/RStreeEDBR_pickup_1.root
+hadd Source file 2: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M2000-R0-5-TuneCUEP8M1_13TeV-madgraph/M2000_R0-5_off/190803_155400/0000/RStreeEDBR_pickup_2.root
+hadd Target path: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M2000_R0-5.root:/
+hadd Target path: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M2000_R0-5.root:/treeDumper
+generating files for M = 2000 GeV R = 0-6
+hadd Target file: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M2000_R0-6.root
+hadd Source file 1: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M2000-R0-6-TuneCUEP8M1_13TeV-madgraph/M2000_R0-6_off/190803_155516/0000/RStreeEDBR_pickup_1.root
+hadd Source file 2: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M2000-R0-6-TuneCUEP8M1_13TeV-madgraph/M2000_R0-6_off/190803_155516/0000/RStreeEDBR_pickup_2.root
+hadd Source file 3: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M2000-R0-6-TuneCUEP8M1_13TeV-madgraph/M2000_R0-6_off/190803_155516/0000/RStreeEDBR_pickup_3.root
+hadd Target path: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M2000_R0-6.root:/
+hadd Target path: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M2000_R0-6.root:/treeDumper
+generating files for M = 2000 GeV R = 0-7
+hadd Target file: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M2000_R0-7.root
+hadd Source file 1: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M2000-R0-7-TuneCUEP8M1_13TeV-madgraph/M2000_R0-7_off/190803_155636/0000/RStreeEDBR_pickup_1.root
+hadd Source file 2: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M2000-R0-7-TuneCUEP8M1_13TeV-madgraph/M2000_R0-7_off/190803_155636/0000/RStreeEDBR_pickup_2.root
+hadd Source file 3: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M2000-R0-7-TuneCUEP8M1_13TeV-madgraph/M2000_R0-7_off/190803_155636/0000/RStreeEDBR_pickup_3.root
+hadd Target path: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M2000_R0-7.root:/
+hadd Target path: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M2000_R0-7.root:/treeDumper
+generating files for M = 2000 GeV R = 0-9
+hadd Target file: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M2000_R0-9.root
+hadd Source file 1: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M2000-R0-9-TuneCUEP8M1_13TeV-madgraph/M2000_R0-9_off/190803_155757/0000/RStreeEDBR_pickup_1.root
+hadd Source file 2: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M2000-R0-9-TuneCUEP8M1_13TeV-madgraph/M2000_R0-9_off/190803_155757/0000/RStreeEDBR_pickup_2.root
+hadd Target path: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M2000_R0-9.root:/
+hadd Target path: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M2000_R0-9.root:/treeDumper
+generating files for M = 3000 GeV R = 0-06
+hadd Target file: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M3000_R0-06.root
+hadd Source file 1: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M3000-R0-06-TuneCUEP8M1_13TeV-madgraph/M3000_R0-06_off/190803_161118/0000/RStreeEDBR_pickup_1.root
+hadd Source file 2: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M3000-R0-06-TuneCUEP8M1_13TeV-madgraph/M3000_R0-06_off/190803_161118/0000/RStreeEDBR_pickup_2.root
+hadd Target path: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M3000_R0-06.root:/
+hadd Target path: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M3000_R0-06.root:/treeDumper
+generating files for M = 3000 GeV R = 0-08
+hadd Target file: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M3000_R0-08.root
+hadd Source file 1: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M3000-R0-08-TuneCUEP8M1_13TeV-madgraph/M3000_R0-08_off/190803_161237/0000/RStreeEDBR_pickup_1.root
+hadd Source file 2: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M3000-R0-08-TuneCUEP8M1_13TeV-madgraph/M3000_R0-08_off/190803_161237/0000/RStreeEDBR_pickup_2.root
+hadd Source file 3: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M3000-R0-08-TuneCUEP8M1_13TeV-madgraph/M3000_R0-08_off/190803_161237/0000/RStreeEDBR_pickup_3.root
+hadd Target path: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M3000_R0-08.root:/
+hadd Target path: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M3000_R0-08.root:/treeDumper
+generating files for M = 3000 GeV R = 0-1
+hadd Target file: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M3000_R0-1.root
+hadd Source file 1: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M3000-R0-1-TuneCUEP8M1_13TeV-madgraph/M3000_R0-1_off/190803_161355/0000/RStreeEDBR_pickup_1.root
+hadd Source file 2: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M3000-R0-1-TuneCUEP8M1_13TeV-madgraph/M3000_R0-1_off/190803_161355/0000/RStreeEDBR_pickup_2.root
+hadd Target path: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M3000_R0-1.root:/
+hadd Target path: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M3000_R0-1.root:/treeDumper
+generating files for M = 3000 GeV R = 0-2
+hadd Target file: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M3000_R0-2.root
+hadd Source file 1: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M3000-R0-2-TuneCUEP8M1_13TeV-madgraph/M3000_R0-2_off/190803_161513/0000/RStreeEDBR_pickup_1.root
+hadd Source file 2: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M3000-R0-2-TuneCUEP8M1_13TeV-madgraph/M3000_R0-2_off/190803_161513/0000/RStreeEDBR_pickup_2.root
+hadd Source file 3: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M3000-R0-2-TuneCUEP8M1_13TeV-madgraph/M3000_R0-2_off/190803_161513/0000/RStreeEDBR_pickup_3.root
+hadd Target path: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M3000_R0-2.root:/
+hadd Target path: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M3000_R0-2.root:/treeDumper
+generating files for M = 3000 GeV R = 0-3
+hadd Target file: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M3000_R0-3.root
+hadd Source file 1: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M3000-R0-3-TuneCUEP8M1_13TeV-madgraph/M3000_R0-3_off/190803_161630/0000/RStreeEDBR_pickup_1.root
+hadd Source file 2: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M3000-R0-3-TuneCUEP8M1_13TeV-madgraph/M3000_R0-3_off/190803_161630/0000/RStreeEDBR_pickup_2.root
+hadd Source file 3: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M3000-R0-3-TuneCUEP8M1_13TeV-madgraph/M3000_R0-3_off/190803_161630/0000/RStreeEDBR_pickup_3.root
+hadd Target path: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M3000_R0-3.root:/
+hadd Target path: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M3000_R0-3.root:/treeDumper
+generating files for M = 3000 GeV R = 0-4
+hadd Target file: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M3000_R0-4.root
+hadd Source file 1: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M3000-R0-4-TuneCUEP8M1_13TeV-madgraph/M3000_R0-4_off/190803_161747/0000/RStreeEDBR_pickup_1.root
+hadd Source file 2: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M3000-R0-4-TuneCUEP8M1_13TeV-madgraph/M3000_R0-4_off/190803_161747/0000/RStreeEDBR_pickup_2.root
+hadd Source file 3: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M3000-R0-4-TuneCUEP8M1_13TeV-madgraph/M3000_R0-4_off/190803_161747/0000/RStreeEDBR_pickup_3.root
+hadd Target path: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M3000_R0-4.root:/
+hadd Target path: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M3000_R0-4.root:/treeDumper
+generating files for M = 3000 GeV R = 0-5
+hadd Target file: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M3000_R0-5.root
+hadd Source file 1: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M3000-R0-5-TuneCUEP8M1_13TeV-madgraph/M3000_R0-5_off/190803_161905/0000/RStreeEDBR_pickup_1.root
+hadd Source file 2: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M3000-R0-5-TuneCUEP8M1_13TeV-madgraph/M3000_R0-5_off/190803_161905/0000/RStreeEDBR_pickup_2.root
+hadd Source file 3: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M3000-R0-5-TuneCUEP8M1_13TeV-madgraph/M3000_R0-5_off/190803_161905/0000/RStreeEDBR_pickup_3.root
+hadd Target path: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M3000_R0-5.root:/
+hadd Target path: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M3000_R0-5.root:/treeDumper
+generating files for M = 3000 GeV R = 0-6
+hadd Target file: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M3000_R0-6.root
+hadd Source file 1: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M3000-R0-6-TuneCUEP8M1_13TeV-madgraph/M3000_R0-6_off/190803_162023/0000/RStreeEDBR_pickup_1.root
+hadd Source file 2: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M3000-R0-6-TuneCUEP8M1_13TeV-madgraph/M3000_R0-6_off/190803_162023/0000/RStreeEDBR_pickup_2.root
+hadd Target path: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M3000_R0-6.root:/
+hadd Target path: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M3000_R0-6.root:/treeDumper
+generating files for M = 3000 GeV R = 0-7
+hadd Target file: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M3000_R0-7.root
+hadd Source file 1: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M3000-R0-7-TuneCUEP8M1_13TeV-madgraph/M3000_R0-7_off/190803_212148/0000/RStreeEDBR_pickup_1.root
+hadd Source file 2: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M3000-R0-7-TuneCUEP8M1_13TeV-madgraph/M3000_R0-7_off/190803_212148/0000/RStreeEDBR_pickup_2.root
+hadd Source file 3: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M3000-R0-7-TuneCUEP8M1_13TeV-madgraph/M3000_R0-7_off/190803_212148/0000/RStreeEDBR_pickup_3.root
+hadd Target path: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M3000_R0-7.root:/
+hadd Target path: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M3000_R0-7.root:/treeDumper
+generating files for M = 3000 GeV R = 0-9
+hadd Target file: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M3000_R0-9.root
+hadd Source file 1: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M3000-R0-9-TuneCUEP8M1_13TeV-madgraph/M3000_R0-9_off/190803_212309/0000/RStreeEDBR_pickup_1.root
+hadd Source file 2: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M3000-R0-9-TuneCUEP8M1_13TeV-madgraph/M3000_R0-9_off/190803_212309/0000/RStreeEDBR_pickup_2.root
+hadd Target path: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M3000_R0-9.root:/
+hadd Target path: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M3000_R0-9.root:/treeDumper
+generating files for M = 3500 GeV R = 0-06
+hadd Target file: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M3500_R0-06.root
+hadd Source file 1: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M3500-R0-06-TuneCUEP8M1_13TeV-madgraph/M3500_R0-06_off/190803_212429/0000/RStreeEDBR_pickup_1.root
+hadd Source file 2: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M3500-R0-06-TuneCUEP8M1_13TeV-madgraph/M3500_R0-06_off/190803_212429/0000/RStreeEDBR_pickup_2.root
+hadd Source file 3: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M3500-R0-06-TuneCUEP8M1_13TeV-madgraph/M3500_R0-06_off/190803_212429/0000/RStreeEDBR_pickup_3.root
+hadd Target path: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M3500_R0-06.root:/
+hadd Target path: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M3500_R0-06.root:/treeDumper
+generating files for M = 3500 GeV R = 0-08
+hadd Target file: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M3500_R0-08.root
+hadd Source file 1: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M3500-R0-08-TuneCUEP8M1_13TeV-madgraph/M3500_R0-08_off/190803_212552/0000/RStreeEDBR_pickup_1.root
+hadd Source file 2: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M3500-R0-08-TuneCUEP8M1_13TeV-madgraph/M3500_R0-08_off/190803_212552/0000/RStreeEDBR_pickup_2.root
+hadd Target path: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M3500_R0-08.root:/
+hadd Target path: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M3500_R0-08.root:/treeDumper
+generating files for M = 3500 GeV R = 0-1
+hadd Target file: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M3500_R0-1.root
+hadd Source file 1: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M3500-R0-1-TuneCUEP8M1_13TeV-madgraph/M3500_R0-1_off/190803_212715/0000/RStreeEDBR_pickup_1.root
+hadd Source file 2: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M3500-R0-1-TuneCUEP8M1_13TeV-madgraph/M3500_R0-1_off/190803_212715/0000/RStreeEDBR_pickup_2.root
+hadd Target path: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M3500_R0-1.root:/
+hadd Target path: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M3500_R0-1.root:/treeDumper
+generating files for M = 3500 GeV R = 0-2
+hadd Target file: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M3500_R0-2.root
+hadd Source file 1: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M3500-R0-2-TuneCUEP8M1_13TeV-madgraph/M3500_R0-2_off/190803_212833/0000/RStreeEDBR_pickup_1.root
+hadd Source file 2: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M3500-R0-2-TuneCUEP8M1_13TeV-madgraph/M3500_R0-2_off/190803_212833/0000/RStreeEDBR_pickup_2.root
+hadd Source file 3: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M3500-R0-2-TuneCUEP8M1_13TeV-madgraph/M3500_R0-2_off/190803_212833/0000/RStreeEDBR_pickup_3.root
+hadd Target path: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M3500_R0-2.root:/
+hadd Target path: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M3500_R0-2.root:/treeDumper
+generating files for M = 3500 GeV R = 0-3
+hadd Target file: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M3500_R0-3.root
+hadd Source file 1: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M3500-R0-3-TuneCUEP8M1_13TeV-madgraph/M3500_R0-3_off/190803_212954/0000/RStreeEDBR_pickup_1.root
+hadd Source file 2: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M3500-R0-3-TuneCUEP8M1_13TeV-madgraph/M3500_R0-3_off/190803_212954/0000/RStreeEDBR_pickup_2.root
+hadd Source file 3: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M3500-R0-3-TuneCUEP8M1_13TeV-madgraph/M3500_R0-3_off/190803_212954/0000/RStreeEDBR_pickup_3.root
+hadd Target path: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M3500_R0-3.root:/
+hadd Target path: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M3500_R0-3.root:/treeDumper
+generating files for M = 3500 GeV R = 0-4
+hadd Target file: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M3500_R0-4.root
+hadd Source file 1: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M3500-R0-4-TuneCUEP8M1_13TeV-madgraph/M3500_R0-4_off/190803_213116/0000/RStreeEDBR_pickup_1.root
+hadd Source file 2: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M3500-R0-4-TuneCUEP8M1_13TeV-madgraph/M3500_R0-4_off/190803_213116/0000/RStreeEDBR_pickup_2.root
+hadd Source file 3: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M3500-R0-4-TuneCUEP8M1_13TeV-madgraph/M3500_R0-4_off/190803_213116/0000/RStreeEDBR_pickup_3.root
+hadd Target path: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M3500_R0-4.root:/
+hadd Target path: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M3500_R0-4.root:/treeDumper
+generating files for M = 3500 GeV R = 0-5
+hadd Target file: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M3500_R0-5.root
+hadd Source file 1: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M3500-R0-5-TuneCUEP8M1_13TeV-madgraph/M3500_R0-5_off/190803_213239/0000/RStreeEDBR_pickup_1.root
+hadd Source file 2: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M3500-R0-5-TuneCUEP8M1_13TeV-madgraph/M3500_R0-5_off/190803_213239/0000/RStreeEDBR_pickup_2.root
+hadd Source file 3: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M3500-R0-5-TuneCUEP8M1_13TeV-madgraph/M3500_R0-5_off/190803_213239/0000/RStreeEDBR_pickup_3.root
+hadd Target path: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M3500_R0-5.root:/
+hadd Target path: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M3500_R0-5.root:/treeDumper
+generating files for M = 3500 GeV R = 0-6
+hadd Target file: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M3500_R0-6.root
+hadd Source file 1: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M3500-R0-6-TuneCUEP8M1_13TeV-madgraph/M3500_R0-6_off/190803_213359/0000/RStreeEDBR_pickup_1.root
+hadd Source file 2: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M3500-R0-6-TuneCUEP8M1_13TeV-madgraph/M3500_R0-6_off/190803_213359/0000/RStreeEDBR_pickup_2.root
+hadd Target path: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M3500_R0-6.root:/
+hadd Target path: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M3500_R0-6.root:/treeDumper
+generating files for M = 3500 GeV R = 0-7
+hadd Target file: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M3500_R0-7.root
+hadd Source file 1: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M3500-R0-7-TuneCUEP8M1_13TeV-madgraph/M3500_R0-7_off/190803_213522/0000/RStreeEDBR_pickup_1.root
+hadd Source file 2: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M3500-R0-7-TuneCUEP8M1_13TeV-madgraph/M3500_R0-7_off/190803_213522/0000/RStreeEDBR_pickup_2.root
+hadd Source file 3: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M3500-R0-7-TuneCUEP8M1_13TeV-madgraph/M3500_R0-7_off/190803_213522/0000/RStreeEDBR_pickup_3.root
+hadd Target path: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M3500_R0-7.root:/
+hadd Target path: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M3500_R0-7.root:/treeDumper
+generating files for M = 3500 GeV R = 0-9
+hadd Target file: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M3500_R0-9.root
+hadd Source file 1: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M3500-R0-9-TuneCUEP8M1_13TeV-madgraph/M3500_R0-9_off/190803_213641/0000/RStreeEDBR_pickup_1.root
+hadd Source file 2: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M3500-R0-9-TuneCUEP8M1_13TeV-madgraph/M3500_R0-9_off/190803_213641/0000/RStreeEDBR_pickup_2.root
+hadd Source file 3: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M3500-R0-9-TuneCUEP8M1_13TeV-madgraph/M3500_R0-9_off/190803_213641/0000/RStreeEDBR_pickup_3.root
+hadd Target path: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M3500_R0-9.root:/
+hadd Target path: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M3500_R0-9.root:/treeDumper
+generating files for M = 4000 GeV R = 0-06
+hadd Target file: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M4000_R0-06.root
+hadd Source file 1: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M4000-R0-06-TuneCUEP8M1_13TeV-madgraph/M4000_R0-06_off/190803_213812/0000/RStreeEDBR_pickup_1.root
+hadd Source file 2: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M4000-R0-06-TuneCUEP8M1_13TeV-madgraph/M4000_R0-06_off/190803_213812/0000/RStreeEDBR_pickup_2.root
+hadd Target path: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M4000_R0-06.root:/
+hadd Target path: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M4000_R0-06.root:/treeDumper
+generating files for M = 4000 GeV R = 0-08
+hadd Target file: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M4000_R0-08.root
+hadd Source file 1: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M4000-R0-08-TuneCUEP8M1_13TeV-madgraph/M4000_R0-08_off/190803_213936/0000/RStreeEDBR_pickup_1.root
+hadd Source file 2: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M4000-R0-08-TuneCUEP8M1_13TeV-madgraph/M4000_R0-08_off/190803_213936/0000/RStreeEDBR_pickup_2.root
+hadd Source file 3: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M4000-R0-08-TuneCUEP8M1_13TeV-madgraph/M4000_R0-08_off/190803_213936/0000/RStreeEDBR_pickup_3.root
+hadd Target path: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M4000_R0-08.root:/
+hadd Target path: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M4000_R0-08.root:/treeDumper
+generating files for M = 4000 GeV R = 0-1
+hadd Target file: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M4000_R0-1.root
+hadd Source file 1: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M4000-R0-1-TuneCUEP8M1_13TeV-madgraph/M4000_R0-1_off/190803_214102/0000/RStreeEDBR_pickup_1.root
+hadd Source file 2: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M4000-R0-1-TuneCUEP8M1_13TeV-madgraph/M4000_R0-1_off/190803_214102/0000/RStreeEDBR_pickup_2.root
+hadd Source file 3: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M4000-R0-1-TuneCUEP8M1_13TeV-madgraph/M4000_R0-1_off/190803_214102/0000/RStreeEDBR_pickup_3.root
+hadd Target path: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M4000_R0-1.root:/
+hadd Target path: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M4000_R0-1.root:/treeDumper
+generating files for M = 4000 GeV R = 0-2
+hadd Target file: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M4000_R0-2.root
+hadd Source file 1: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M4000-R0-2-TuneCUEP8M1_13TeV-madgraph/M4000_R0-2_off/190803_214225/0000/RStreeEDBR_pickup_1.root
+hadd Source file 2: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M4000-R0-2-TuneCUEP8M1_13TeV-madgraph/M4000_R0-2_off/190803_214225/0000/RStreeEDBR_pickup_2.root
+hadd Source file 3: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M4000-R0-2-TuneCUEP8M1_13TeV-madgraph/M4000_R0-2_off/190803_214225/0000/RStreeEDBR_pickup_3.root
+hadd Target path: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M4000_R0-2.root:/
+hadd Target path: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M4000_R0-2.root:/treeDumper
+generating files for M = 4000 GeV R = 0-3
+hadd Target file: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M4000_R0-3.root
+hadd Source file 1: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M4000-R0-3-TuneCUEP8M1_13TeV-madgraph/M4000_R0-3_off/190803_214347/0000/RStreeEDBR_pickup_1.root
+hadd Source file 2: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M4000-R0-3-TuneCUEP8M1_13TeV-madgraph/M4000_R0-3_off/190803_214347/0000/RStreeEDBR_pickup_2.root
+hadd Target path: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M4000_R0-3.root:/
+hadd Target path: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M4000_R0-3.root:/treeDumper
+generating files for M = 4000 GeV R = 0-4
+hadd Target file: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M4000_R0-4.root
+hadd Source file 1: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M4000-R0-4-TuneCUEP8M1_13TeV-madgraph/M4000_R0-4_off/190803_214508/0000/RStreeEDBR_pickup_1.root
+hadd Source file 2: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M4000-R0-4-TuneCUEP8M1_13TeV-madgraph/M4000_R0-4_off/190803_214508/0000/RStreeEDBR_pickup_2.root
+hadd Source file 3: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M4000-R0-4-TuneCUEP8M1_13TeV-madgraph/M4000_R0-4_off/190803_214508/0000/RStreeEDBR_pickup_3.root
+hadd Target path: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M4000_R0-4.root:/
+hadd Target path: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M4000_R0-4.root:/treeDumper
+generating files for M = 4000 GeV R = 0-5
+hadd Target file: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M4000_R0-5.root
+hadd Source file 1: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M4000-R0-5-TuneCUEP8M1_13TeV-madgraph/M4000_R0-5_off/190803_214635/0000/RStreeEDBR_pickup_1.root
+hadd Source file 2: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M4000-R0-5-TuneCUEP8M1_13TeV-madgraph/M4000_R0-5_off/190803_214635/0000/RStreeEDBR_pickup_2.root
+hadd Source file 3: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M4000-R0-5-TuneCUEP8M1_13TeV-madgraph/M4000_R0-5_off/190803_214635/0000/RStreeEDBR_pickup_3.root
+hadd Target path: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M4000_R0-5.root:/
+hadd Target path: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M4000_R0-5.root:/treeDumper
+generating files for M = 4000 GeV R = 0-6
+hadd Target file: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M4000_R0-6.root
+hadd Source file 1: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M4000-R0-6-TuneCUEP8M1_13TeV-madgraph/M4000_R0-6_off/190803_214757/0000/RStreeEDBR_pickup_1.root
+hadd Source file 2: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M4000-R0-6-TuneCUEP8M1_13TeV-madgraph/M4000_R0-6_off/190803_214757/0000/RStreeEDBR_pickup_2.root
+hadd Source file 3: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M4000-R0-6-TuneCUEP8M1_13TeV-madgraph/M4000_R0-6_off/190803_214757/0000/RStreeEDBR_pickup_3.root
+hadd Target path: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M4000_R0-6.root:/
+hadd Target path: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M4000_R0-6.root:/treeDumper
+generating files for M = 4000 GeV R = 0-7
+hadd Target file: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M4000_R0-7.root
+hadd Source file 1: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M4000-R0-7-TuneCUEP8M1_13TeV-madgraph/M4000_R0-7_off/190803_214923/0000/RStreeEDBR_pickup_1.root
+hadd Source file 2: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M4000-R0-7-TuneCUEP8M1_13TeV-madgraph/M4000_R0-7_off/190803_214923/0000/RStreeEDBR_pickup_2.root
+hadd Target path: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M4000_R0-7.root:/
+hadd Target path: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M4000_R0-7.root:/treeDumper
+generating files for M = 4000 GeV R = 0-9
+hadd Target file: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M4000_R0-9.root
+hadd Source file 1: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M4000-R0-9-TuneCUEP8M1_13TeV-madgraph/M4000_R0-9_off/190803_215046/0000/RStreeEDBR_pickup_1.root
+hadd Source file 2: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M4000-R0-9-TuneCUEP8M1_13TeV-madgraph/M4000_R0-9_off/190803_215046/0000/RStreeEDBR_pickup_2.root
+hadd Source file 3: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M4000-R0-9-TuneCUEP8M1_13TeV-madgraph/M4000_R0-9_off/190803_215046/0000/RStreeEDBR_pickup_3.root
+hadd Target path: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M4000_R0-9.root:/
+hadd Target path: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M4000_R0-9.root:/treeDumper
+generating files for M = 4500 GeV R = 0-06
+hadd Target file: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M4500_R0-06.root
+hadd Source file 1: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M4500-R0-06-TuneCUEP8M1_13TeV-madgraph/M4500_R0-06_off/190803_215206/0000/RStreeEDBR_pickup_1.root
+hadd Source file 2: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M4500-R0-06-TuneCUEP8M1_13TeV-madgraph/M4500_R0-06_off/190803_215206/0000/RStreeEDBR_pickup_2.root
+hadd Source file 3: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M4500-R0-06-TuneCUEP8M1_13TeV-madgraph/M4500_R0-06_off/190803_215206/0000/RStreeEDBR_pickup_3.root
+hadd Target path: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M4500_R0-06.root:/
+hadd Target path: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M4500_R0-06.root:/treeDumper
+generating files for M = 4500 GeV R = 0-08
+hadd Target file: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M4500_R0-08.root
+hadd Source file 1: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M4500-R0-08-TuneCUEP8M1_13TeV-madgraph/M4500_R0-08_off/190803_215327/0000/RStreeEDBR_pickup_1.root
+hadd Source file 2: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M4500-R0-08-TuneCUEP8M1_13TeV-madgraph/M4500_R0-08_off/190803_215327/0000/RStreeEDBR_pickup_2.root
+hadd Source file 3: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M4500-R0-08-TuneCUEP8M1_13TeV-madgraph/M4500_R0-08_off/190803_215327/0000/RStreeEDBR_pickup_3.root
+hadd Target path: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M4500_R0-08.root:/
+hadd Target path: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M4500_R0-08.root:/treeDumper
+generating files for M = 4500 GeV R = 0-1
+hadd Target file: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M4500_R0-1.root
+hadd Source file 1: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M4500-R0-1-TuneCUEP8M1_13TeV-madgraph/M4500_R0-1_off/190803_215449/0000/RStreeEDBR_pickup_1.root
+hadd Source file 2: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M4500-R0-1-TuneCUEP8M1_13TeV-madgraph/M4500_R0-1_off/190803_215449/0000/RStreeEDBR_pickup_2.root
+hadd Source file 3: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M4500-R0-1-TuneCUEP8M1_13TeV-madgraph/M4500_R0-1_off/190803_215449/0000/RStreeEDBR_pickup_3.root
+hadd Source file 4: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M4500-R0-1-TuneCUEP8M1_13TeV-madgraph/M4500_R0-1_off/190803_215449/0000/RStreeEDBR_pickup_4.root
+hadd Target path: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M4500_R0-1.root:/
+hadd Target path: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M4500_R0-1.root:/treeDumper
+generating files for M = 4500 GeV R = 0-2
+hadd Target file: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M4500_R0-2.root
+hadd Source file 1: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M4500-R0-2-TuneCUEP8M1_13TeV-madgraph/M4500_R0-2_off/190803_215611/0000/RStreeEDBR_pickup_1.root
+hadd Source file 2: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M4500-R0-2-TuneCUEP8M1_13TeV-madgraph/M4500_R0-2_off/190803_215611/0000/RStreeEDBR_pickup_2.root
+hadd Source file 3: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M4500-R0-2-TuneCUEP8M1_13TeV-madgraph/M4500_R0-2_off/190803_215611/0000/RStreeEDBR_pickup_3.root
+hadd Target path: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M4500_R0-2.root:/
+hadd Target path: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M4500_R0-2.root:/treeDumper
+generating files for M = 4500 GeV R = 0-3
+hadd Target file: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M4500_R0-3.root
+hadd Source file 1: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M4500-R0-3-TuneCUEP8M1_13TeV-madgraph/M4500_R0-3_off/190803_215729/0000/RStreeEDBR_pickup_1.root
+hadd Source file 2: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M4500-R0-3-TuneCUEP8M1_13TeV-madgraph/M4500_R0-3_off/190803_215729/0000/RStreeEDBR_pickup_2.root
+hadd Target path: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M4500_R0-3.root:/
+hadd Target path: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M4500_R0-3.root:/treeDumper
+generating files for M = 4500 GeV R = 0-4
+hadd Target file: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M4500_R0-4.root
+hadd Source file 1: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M4500-R0-4-TuneCUEP8M1_13TeV-madgraph/M4500_R0-4_off/190803_215848/0000/RStreeEDBR_pickup_1.root
+hadd Source file 2: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M4500-R0-4-TuneCUEP8M1_13TeV-madgraph/M4500_R0-4_off/190803_215848/0000/RStreeEDBR_pickup_2.root
+hadd Source file 3: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M4500-R0-4-TuneCUEP8M1_13TeV-madgraph/M4500_R0-4_off/190803_215848/0000/RStreeEDBR_pickup_3.root
+hadd Source file 4: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M4500-R0-4-TuneCUEP8M1_13TeV-madgraph/M4500_R0-4_off/190803_215848/0000/RStreeEDBR_pickup_4.root
+hadd Source file 5: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M4500-R0-4-TuneCUEP8M1_13TeV-madgraph/M4500_R0-4_off/190803_215848/0000/RStreeEDBR_pickup_5.root
+hadd Target path: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M4500_R0-4.root:/
+hadd Target path: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M4500_R0-4.root:/treeDumper
+generating files for M = 4500 GeV R = 0-5
+hadd Target file: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M4500_R0-5.root
+hadd Source file 1: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M4500-R0-5-TuneCUEP8M1_13TeV-madgraph/M4500_R0-5_off/190803_220008/0000/RStreeEDBR_pickup_1.root
+hadd Source file 2: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M4500-R0-5-TuneCUEP8M1_13TeV-madgraph/M4500_R0-5_off/190803_220008/0000/RStreeEDBR_pickup_2.root
+hadd Source file 3: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M4500-R0-5-TuneCUEP8M1_13TeV-madgraph/M4500_R0-5_off/190803_220008/0000/RStreeEDBR_pickup_3.root
+hadd Target path: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M4500_R0-5.root:/
+hadd Target path: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M4500_R0-5.root:/treeDumper
+generating files for M = 4500 GeV R = 0-6
+hadd Target file: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M4500_R0-6.root
+hadd Source file 1: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M4500-R0-6-TuneCUEP8M1_13TeV-madgraph/M4500_R0-6_off/190803_220128/0000/RStreeEDBR_pickup_1.root
+hadd Source file 2: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M4500-R0-6-TuneCUEP8M1_13TeV-madgraph/M4500_R0-6_off/190803_220128/0000/RStreeEDBR_pickup_2.root
+hadd Source file 3: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M4500-R0-6-TuneCUEP8M1_13TeV-madgraph/M4500_R0-6_off/190803_220128/0000/RStreeEDBR_pickup_3.root
+hadd Target path: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M4500_R0-6.root:/
+hadd Target path: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M4500_R0-6.root:/treeDumper
+generating files for M = 4500 GeV R = 0-7
+hadd Target file: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M4500_R0-7.root
+hadd Source file 1: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M4500-R0-7-TuneCUEP8M1_13TeV-madgraph/M4500_R0-7_off/190803_220248/0000/RStreeEDBR_pickup_1.root
+hadd Source file 2: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M4500-R0-7-TuneCUEP8M1_13TeV-madgraph/M4500_R0-7_off/190803_220248/0000/RStreeEDBR_pickup_2.root
+hadd Source file 3: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M4500-R0-7-TuneCUEP8M1_13TeV-madgraph/M4500_R0-7_off/190803_220248/0000/RStreeEDBR_pickup_3.root
+hadd Target path: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M4500_R0-7.root:/
+hadd Target path: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M4500_R0-7.root:/treeDumper
+generating files for M = 4500 GeV R = 0-9
+hadd Target file: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M4500_R0-9.root
+hadd Source file 1: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M4500-R0-9-TuneCUEP8M1_13TeV-madgraph/M4500_R0-9_off/190803_220408/0000/RStreeEDBR_pickup_1.root
+hadd Source file 2: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M4500-R0-9-TuneCUEP8M1_13TeV-madgraph/M4500_R0-9_off/190803_220408/0000/RStreeEDBR_pickup_2.root
+hadd Target path: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M4500_R0-9.root:/
+hadd Target path: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M4500_R0-9.root:/treeDumper
+generating files for M = 5000 GeV R = 0-06
+hadd Target file: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M5000_R0-06.root
+hadd Source file 1: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M5000-R0-06-TuneCUEP8M1_13TeV-madgraph/M5000_R0-06_off/190803_220529/0000/RStreeEDBR_pickup_1.root
+hadd Source file 2: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M5000-R0-06-TuneCUEP8M1_13TeV-madgraph/M5000_R0-06_off/190803_220529/0000/RStreeEDBR_pickup_2.root
+hadd Target path: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M5000_R0-06.root:/
+hadd Target path: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M5000_R0-06.root:/treeDumper
+generating files for M = 5000 GeV R = 0-08
+hadd Target file: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M5000_R0-08.root
+hadd Source file 1: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M5000-R0-08-TuneCUEP8M1_13TeV-madgraph/M5000_R0-08_off/190803_220651/0000/RStreeEDBR_pickup_1.root
+hadd Source file 2: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M5000-R0-08-TuneCUEP8M1_13TeV-madgraph/M5000_R0-08_off/190803_220651/0000/RStreeEDBR_pickup_2.root
+hadd Source file 3: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M5000-R0-08-TuneCUEP8M1_13TeV-madgraph/M5000_R0-08_off/190803_220651/0000/RStreeEDBR_pickup_3.root
+hadd Source file 4: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M5000-R0-08-TuneCUEP8M1_13TeV-madgraph/M5000_R0-08_off/190803_220651/0000/RStreeEDBR_pickup_4.root
+hadd Target path: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M5000_R0-08.root:/
+hadd Target path: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M5000_R0-08.root:/treeDumper
+generating files for M = 5000 GeV R = 0-1
+hadd Target file: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M5000_R0-1.root
+hadd Source file 1: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M5000-R0-1-TuneCUEP8M1_13TeV-madgraph/M5000_R0-1_off/190803_220813/0000/RStreeEDBR_pickup_1.root
+hadd Source file 2: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M5000-R0-1-TuneCUEP8M1_13TeV-madgraph/M5000_R0-1_off/190803_220813/0000/RStreeEDBR_pickup_2.root
+hadd Source file 3: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M5000-R0-1-TuneCUEP8M1_13TeV-madgraph/M5000_R0-1_off/190803_220813/0000/RStreeEDBR_pickup_3.root
+hadd Target path: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M5000_R0-1.root:/
+hadd Target path: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M5000_R0-1.root:/treeDumper
+generating files for M = 5000 GeV R = 0-2
+hadd Target file: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M5000_R0-2.root
+hadd Source file 1: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M5000-R0-2-TuneCUEP8M1_13TeV-madgraph/M5000_R0-2_off/190803_220935/0000/RStreeEDBR_pickup_1.root
+hadd Source file 2: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M5000-R0-2-TuneCUEP8M1_13TeV-madgraph/M5000_R0-2_off/190803_220935/0000/RStreeEDBR_pickup_2.root
+hadd Source file 3: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M5000-R0-2-TuneCUEP8M1_13TeV-madgraph/M5000_R0-2_off/190803_220935/0000/RStreeEDBR_pickup_3.root
+hadd Target path: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M5000_R0-2.root:/
+hadd Target path: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M5000_R0-2.root:/treeDumper
+generating files for M = 5000 GeV R = 0-3
+hadd Target file: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M5000_R0-3.root
+hadd Source file 1: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M5000-R0-3-TuneCUEP8M1_13TeV-madgraph/M5000_R0-3_off/190803_221056/0000/RStreeEDBR_pickup_1.root
+hadd Source file 2: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M5000-R0-3-TuneCUEP8M1_13TeV-madgraph/M5000_R0-3_off/190803_221056/0000/RStreeEDBR_pickup_2.root
+hadd Target path: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M5000_R0-3.root:/
+hadd Target path: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M5000_R0-3.root:/treeDumper
+generating files for M = 5000 GeV R = 0-4
+hadd Target file: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M5000_R0-4.root
+hadd Source file 1: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M5000-R0-4-TuneCUEP8M1_13TeV-madgraph/M5000_R0-4_off/190803_221220/0000/RStreeEDBR_pickup_1.root
+hadd Source file 2: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M5000-R0-4-TuneCUEP8M1_13TeV-madgraph/M5000_R0-4_off/190803_221220/0000/RStreeEDBR_pickup_2.root
+hadd Target path: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M5000_R0-4.root:/
+hadd Target path: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M5000_R0-4.root:/treeDumper
+generating files for M = 5000 GeV R = 0-5
+hadd Target file: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M5000_R0-5.root
+hadd Source file 1: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M5000-R0-5-TuneCUEP8M1_13TeV-madgraph/M5000_R0-5_off/190803_221339/0000/RStreeEDBR_pickup_1.root
+hadd Source file 2: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M5000-R0-5-TuneCUEP8M1_13TeV-madgraph/M5000_R0-5_off/190803_221339/0000/RStreeEDBR_pickup_2.root
+hadd Source file 3: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M5000-R0-5-TuneCUEP8M1_13TeV-madgraph/M5000_R0-5_off/190803_221339/0000/RStreeEDBR_pickup_3.root
+hadd Target path: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M5000_R0-5.root:/
+hadd Target path: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M5000_R0-5.root:/treeDumper
+generating files for M = 5000 GeV R = 0-6
+hadd Target file: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M5000_R0-6.root
+hadd Source file 1: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M5000-R0-6-TuneCUEP8M1_13TeV-madgraph/M5000_R0-6_off/190803_221458/0000/RStreeEDBR_pickup_1.root
+hadd Source file 2: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M5000-R0-6-TuneCUEP8M1_13TeV-madgraph/M5000_R0-6_off/190803_221458/0000/RStreeEDBR_pickup_2.root
+hadd Source file 3: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M5000-R0-6-TuneCUEP8M1_13TeV-madgraph/M5000_R0-6_off/190803_221458/0000/RStreeEDBR_pickup_3.root
+hadd Target path: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M5000_R0-6.root:/
+hadd Target path: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M5000_R0-6.root:/treeDumper
+generating files for M = 5000 GeV R = 0-7
+hadd Target file: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M5000_R0-7.root
+hadd Source file 1: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M5000-R0-7-TuneCUEP8M1_13TeV-madgraph/M5000_R0-7_off/190803_221619/0000/RStreeEDBR_pickup_1.root
+hadd Source file 2: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M5000-R0-7-TuneCUEP8M1_13TeV-madgraph/M5000_R0-7_off/190803_221619/0000/RStreeEDBR_pickup_2.root
+hadd Source file 3: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M5000-R0-7-TuneCUEP8M1_13TeV-madgraph/M5000_R0-7_off/190803_221619/0000/RStreeEDBR_pickup_3.root
+hadd Source file 4: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M5000-R0-7-TuneCUEP8M1_13TeV-madgraph/M5000_R0-7_off/190803_221619/0000/RStreeEDBR_pickup_4.root
+hadd Target path: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M5000_R0-7.root:/
+hadd Target path: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M5000_R0-7.root:/treeDumper
+generating files for M = 5000 GeV R = 0-9
+hadd Target file: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M5000_R0-9.root
+hadd Source file 1: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M5000-R0-9-TuneCUEP8M1_13TeV-madgraph/M5000_R0-9_off/190803_221738/0000/RStreeEDBR_pickup_1.root
+hadd Source file 2: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M5000-R0-9-TuneCUEP8M1_13TeV-madgraph/M5000_R0-9_off/190803_221738/0000/RStreeEDBR_pickup_2.root
+hadd Source file 3: /eos/cms/store/group/dpg_trigger/comm_trigger/TriggerStudiesGroup/STEAM/xulyu/WWW//WkkToWRadionToWWW_M5000-R0-9-TuneCUEP8M1_13TeV-madgraph/M5000_R0-9_off/190803_221738/0000/RStreeEDBR_pickup_3.root
+hadd Target path: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M5000_R0-9.root:/
+hadd Target path: /eos/cms/store/user/xulyu//data2016_8_6_parton_match/M5000_R0-9.root:/treeDumper

@@ -1,0 +1,3 @@
+tmp/slc6_amd64_gcc630/src/L1Prefiring/EventWeightProducer/plugins/L1PrefiringEventWeightProducerAuto/L1ECALPrefiringWeightProducer.o: \
+ src/L1Prefiring/EventWeightProducer/plugins/L1ECALPrefiringWeightProducer.cc \
+

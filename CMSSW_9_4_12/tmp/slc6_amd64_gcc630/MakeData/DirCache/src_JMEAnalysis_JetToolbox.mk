@@ -1,0 +1,2 @@
+ALL_PACKAGES += JMEAnalysis/JetToolbox
+subdirs_src_JMEAnalysis_JetToolbox := src_JMEAnalysis_JetToolbox_plugins src_JMEAnalysis_JetToolbox_python src_JMEAnalysis_JetToolbox_test
